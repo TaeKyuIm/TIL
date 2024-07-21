@@ -1,0 +1,49 @@
+millions of labelled examples with which to train the machine. 
+To properly adjust the weight vector, the learning algorithm com -
+putes a gradient vector that, for each weight, indicates by what amount 
+the error would increase or decrease if the weight were increased by a 
+tiny amount. The weight vector is then adjusted in the opposite direc -
+tion to the gradient vector. 
+The objective function, averaged over all the training examples, can Deep learning allows computational models that are composed of multiple processing layers to learn representations of 
+data with multiple levels of abstraction. These methods have dramatically improved the state-of-the-art in speech rec -
+ognition, visual object recognition, object detection and many other domains such as drug discovery and genomics. Deep 
+learning discovers intricate structure in large data sets by using the backpropagation algorithm to indicate how a machine
+
+layer may assemble motifs into larger combinations that correspond 
+to parts of familiar objects, and subsequent layers would detect objects 
+as combinations of these parts. The key aspect of deep learning is that 
+these layers of features are not designed by human engineers: they 
+are learned from data using a general-purpose learning procedure. 
+Deep learning is making major advances in solving problems that 
+have resisted the best attempts of the artificial intelligence commu -
+nity for many years. It has turned out to be very good at discovering intricate structures in high-dimensional data and is therefore applica -
+ble to many domains of science, business and government. In addition 
+to beating records in image recognition1–4 and speech recognition5–7, it 
+has beaten other machine-learning techniques at predicting the activ -
+ity of potential drug molecules8, analysing particle accelerator data9,10, 
+reconstructing brain circuits11, and predicting the effects of mutations
+
+products with users’ interests, and select relevant results of search. 
+Increasingly, these applications make use of a class of techniques called 
+deep learning. 
+Conventional machine-learning techniques were limited in their 
+ability to process natural data in their raw form. For decades, con -
+structing a pattern-recognition or machine-learning system required 
+careful engineering and considerable domain expertise to design a fea -
+ture extractor that transformed the raw data (such as the pixel values 
+of an image) into a suitable internal representation or feature vector 
+from which the learning subsystem, often a classifier, could detect or 
+classify patterns in the input. 
+Representation learning is a set of methods that allows a machine to 
+be fed with raw data and to automatically discover the representations 
+needed for detection or classification. Deep-learning methods are 
+representation-learning methods with multiple levels of representa -
+
+should change its internal parameters that are used to compute the representation in each layer from the representation in 
+the previous layer. Deep convolutional nets have brought about breakthroughs in processing images, video, speech and 
+audio, whereas recurrent nets have shone light on sequential data such as text and speech. Deep learning
+Yann LeCun1,2, Yoshua Bengio3 & Geoffrey Hinton4,5
+436 | NATURE | VOL 521 | 28 MAY 2015
+REVIEW
+doi:10.1038/nature14539
+© 2015 Macmillan Publishers Limited. All rights reserved
